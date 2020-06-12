@@ -1,4 +1,3 @@
-# CompNetworkLabs
 # Oratovska says Hello!
 
 You can find certificate here:
